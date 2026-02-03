@@ -55,14 +55,14 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahmvdaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmvdaziz&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmvdaziz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmvdaziz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmvdaziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmvdaziz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -78,39 +78,64 @@
 ## 🚀 Featured Projects
 
 ### [Project Name 1](https://github.com/Ahmvdaziz/project-1)
-Brief description of your best .NET project - what it does, technologies used, and impact.
+🎯 **Tech Stack:** ASP.NET Core, SQL Server, Entity Framework  
+Brief description of your best .NET project - what problem it solves and its key features.
 
 ### [Project Name 2](https://github.com/Ahmvdaziz/project-2)
-Description of another significant project showcasing your skills.
+🎯 **Tech Stack:** C#, .NET, Unity  
+Description of another significant project showcasing your development skills.
 
 ### [Project Name 3](https://github.com/Ahmvdaziz/project-3)
-Another project that demonstrates your capabilities.
+🎯 **Tech Stack:** Python, Data Structures & Algorithms  
+Another project demonstrating your problem-solving capabilities.
+
+> 📌 **Note:** Check out my [repositories](https://github.com/Ahmvdaziz?tab=repositories) for more projects!
 
 ---
 
-## 📈 Coding Activity
+## 💻 Competitive Programming Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <a href="https://codeforces.com/profile/your-username">
+    <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=your-username&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmvdaziz&theme=tokyo-night&hide_border=true)](https://github.com/Ahmvdaziz)
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="left">
-  📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/your-profile">Ahmed Aziz</a><br>
-  🐙 GitHub: <a href="https://github.com/Ahmvdaziz">@Ahmvdaziz</a><br>
-  🏆 Codeforces: <a href="https://codeforces.com/profile/your-username">Your Handle</a><br>
-  💻 LeetCode: <a href="https://leetcode.com/your-username">Your Username</a>
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ahmvdaziz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmvdaziz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmvdaziz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  💡 <i>Open to collaborating on .NET projects and learning opportunities!</i>
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
+
+<p align="center">
+  ⭐️ Open to collaborating on .NET projects and learning opportunities!
 </p>
