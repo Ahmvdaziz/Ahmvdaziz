@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="in/ahmvd-aziz-285a46281">
+<a href="https://www.linkedin.com/in/ahmvd-aziz/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
