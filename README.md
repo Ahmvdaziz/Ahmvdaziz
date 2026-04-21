@@ -43,11 +43,14 @@
 ---
 
 ## 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmvdaziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdaziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmvdaziz&theme=tokyonight" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmvdaziz&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+</div>
 ---
 
 ## 🌐 Connect With Me
